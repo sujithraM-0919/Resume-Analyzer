@@ -1,0 +1,32 @@
+Senior ML Engineer – AI Platform Team
+TechCorp AI | San Francisco, CA | Full-time
+
+ABOUT THE ROLE
+We are looking for a Senior ML Engineer to join our AI Platform team. You will design, build, and scale machine learning systems that power our core products used by millions of users worldwide.
+
+RESPONSIBILITIES
+- Design and implement end-to-end machine learning pipelines from data ingestion to model deployment
+- Build and maintain MLOps infrastructure for model training, evaluation, and serving
+- Collaborate with cross-functional teams (product, data science, engineering) in an agile environment
+- Lead technical design discussions and mentor junior engineers
+- Drive A/B testing and experimentation frameworks
+- Optimize model performance and system scalability
+
+REQUIRED SKILLS & EXPERIENCE
+- 5+ years software engineering experience with 2+ years in ML engineering
+- Strong programming skills in Python; familiarity with TypeScript or JavaScript is a plus
+- Experience with ML frameworks: TensorFlow, PyTorch, scikit-learn, or XGBoost
+- Proficiency in cloud platforms: AWS, GCP, or Azure
+- Experience with containerization and orchestration: Docker, Kubernetes
+- Strong knowledge of SQL and experience with data warehouses (BigQuery, Redshift, or Snowflake)
+- Experience with data pipeline tools: Apache Airflow, Spark, or dbt
+- Familiarity with NLP and large language models (LLMs) is highly preferred
+- Knowledge of MLOps practices and tools
+- Strong communication and leadership skills
+- Experience with agile and scrum methodologies
+
+NICE TO HAVE
+- Experience with LangChain, Hugging Face, or RAG systems
+- Contributions to open-source projects
+- Experience with Kafka or other streaming technologies
+- Knowledge of feature engineering best practices

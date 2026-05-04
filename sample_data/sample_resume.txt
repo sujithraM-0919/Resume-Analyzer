@@ -1,0 +1,34 @@
+SARAH CHEN
+Senior Software Engineer | sarah.chen@email.com | linkedin.com/in/sarahchen | github.com/sarahchen
+
+SUMMARY
+Results-driven software engineer with 6 years of experience building scalable web applications and data pipelines. Passionate about machine learning and cloud-native architectures. Strong communicator with proven leadership in cross-functional agile teams.
+
+SKILLS
+Languages: Python, JavaScript, TypeScript, SQL, Bash
+Frameworks: React, FastAPI, Django, TensorFlow, scikit-learn, pandas, numpy
+Cloud & DevOps: AWS (EC2, S3, Lambda, SQS), Docker, Kubernetes, GitHub Actions, Terraform
+Databases: PostgreSQL, MongoDB, Redis, BigQuery
+ML/AI: Machine learning, deep learning, NLP, feature engineering, model deployment, MLOps
+
+EXPERIENCE
+
+Senior Software Engineer | DataFlow Inc. | Jan 2022 – Present
+- Led development of a real-time data pipeline processing 500K events/day using Python, Kafka, and AWS
+- Built and deployed 3 ML models for customer churn prediction achieving 87% accuracy (scikit-learn, TensorFlow)
+- Architected React + FastAPI web application serving 50K monthly active users
+- Mentored 4 junior engineers; introduced agile sprint ceremonies that cut delivery time by 30%
+- Implemented CI/CD pipelines with GitHub Actions and Docker/Kubernetes deployments
+
+Software Engineer | Nexus Tech | Jun 2019 – Dec 2021
+- Developed full-stack features using Python/Django backend and React frontend
+- Designed PostgreSQL database schemas for high-traffic e-commerce platform (2M+ records)
+- Built ETL pipelines with Apache Airflow and dbt for business intelligence dashboards
+- Collaborated with data science team on A/B testing framework using statistics and Python
+
+EDUCATION
+B.S. Computer Science | UC Berkeley | 2019
+
+PROJECTS
+- Open-source NLP toolkit (500+ GitHub stars): Python, huggingface, transformers
+- Real-time dashboard: React, WebSockets, Redis, PostgreSQL
